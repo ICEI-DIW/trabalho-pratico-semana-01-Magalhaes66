@@ -3,11 +3,14 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Heitor Magalhaes Siqueira
+Matricula: 885456
 
-## Tela de inspeção com navegador
+## Tela de inspeção com navegador 
+![alt text](<print site.jpeg>)
+
 
 
 ## Tela de projeto no Replit
 
+![alt text](<print hello world-1.jpeg>)
